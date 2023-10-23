@@ -3,4 +3,6 @@
 <h3>Used Tools: </h3>
 <ul>
   <li>Overleaf Online LaTeX Editor</li>
+  <li>Git</li>
+  <li>Git Bash</li>
 </ul>
